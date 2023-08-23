@@ -47,3 +47,5 @@ You can install these libraries using pip:
 
 ```bash
 pip install -r requirements.txt
+or
+pip install torch torchvision pandas numpy [any other necessary libraries]
