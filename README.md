@@ -1,6 +1,4 @@
-# eT3Internship2023 README
- 
-## Task Description
+# eT3Internship2023 Task README
 
 ## Folder Structure
 
