@@ -1,0 +1,194 @@
+{
+    "annotations": [
+        {
+            "result": [
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 0.32213911414146423,
+                        "y": 97.96316528320312,
+                        "width": 104.8104019165039,
+                        "height": 333.1419982910156,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "result": [
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 14.915336608886719,
+                        "y": 19.903995513916016,
+                        "width": 71.3055191040039,
+                        "height": 66.06101989746094,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "result": [
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 131.43423461914062,
+                        "y": 34.154136657714844,
+                        "width": 201.853271484375,
+                        "height": 165.4624481201172,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "result": [
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 195.24740600585938,
+                        "y": 261.1045837402344,
+                        "width": 209.3591766357422,
+                        "height": 275.9969482421875,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "result": [
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 174.224365234375,
+                        "y": 60.33847427368164,
+                        "width": 247.48802185058594,
+                        "height": 227.823974609375,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "result": [
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 305.4730224609375,
+                        "y": 36.8305778503418,
+                        "width": 347.9977722167969,
+                        "height": 112.1011962890625,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "result": [
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 98.41004180908203,
+                        "y": 15.259221076965332,
+                        "width": 142.58946228027344,
+                        "height": 62.179229736328125,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "result": [
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 31.229841232299805,
+                        "y": 285.10723876953125,
+                        "width": 90.13802337646484,
+                        "height": 340.5931701660156,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "result": [
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 17.5859432220459,
+                        "y": 2.9349937438964844,
+                        "width": 330.4314270019531,
+                        "height": 336.2092590332031,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "result": [
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 185.6284637451172,
+                        "y": 292.1315612792969,
+                        "width": 200.2769317626953,
+                        "height": 306.9828796386719,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "result": [
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 98.07540130615234,
+                        "y": 2.9616336822509766,
+                        "width": 117.3011245727539,
+                        "height": 38.9456901550293,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "image": "imagesResult/image1.jpg"
+    }
+}

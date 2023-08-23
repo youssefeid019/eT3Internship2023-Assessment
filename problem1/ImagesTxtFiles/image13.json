@@ -1,0 +1,58 @@
+{
+    "annotations": [
+        {
+            "result": [
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 12.11888313293457,
+                        "y": 101.09015655517578,
+                        "width": 287.0769348144531,
+                        "height": 343.05084228515625,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "result": [
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 225.65252685546875,
+                        "y": 0.0,
+                        "width": 344.6968994140625,
+                        "height": 131.11427307128906,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "result": [
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 142.00694274902344,
+                        "y": 28.06311798095703,
+                        "width": 239.08241271972656,
+                        "height": 72.20460510253906,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "image": "imagesResult/image13.jpg"
+    }
+}

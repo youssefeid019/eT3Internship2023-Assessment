@@ -1,0 +1,41 @@
+{
+    "annotations": [
+        {
+            "result": [
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 118.2256851196289,
+                        "y": 13.500960350036621,
+                        "width": 264.9863586425781,
+                        "height": 201.53106689453125,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "result": [
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 37.80859375,
+                        "y": 45.77875900268555,
+                        "width": 130.7396240234375,
+                        "height": 257.80767822265625,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "image": "imagesResult/image2.jpg"
+    }
+}

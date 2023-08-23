@@ -1,0 +1,194 @@
+{
+    "annotations": [
+        {
+            "result": [
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 3.1220285892486572,
+                        "y": 140.41322326660156,
+                        "width": 142.15283203125,
+                        "height": 336.3382263183594,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "result": [
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 31.461957931518555,
+                        "y": 1.622126579284668,
+                        "width": 343.843017578125,
+                        "height": 331.4005126953125,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "result": [
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 119.29706573486328,
+                        "y": 180.6488037109375,
+                        "width": 148.2026824951172,
+                        "height": 283.9462585449219,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "result": [
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 298.9382629394531,
+                        "y": 0.0,
+                        "width": 348.0,
+                        "height": 39.57738494873047,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "result": [
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 144.62130737304688,
+                        "y": 209.4415283203125,
+                        "width": 211.15374755859375,
+                        "height": 265.3270568847656,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "result": [
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 5.515937328338623,
+                        "y": 129.968994140625,
+                        "width": 27.510177612304688,
+                        "height": 144.12838745117188,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "result": [
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 229.28170776367188,
+                        "y": 0.0,
+                        "width": 316.7379455566406,
+                        "height": 24.65934944152832,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "result": [
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 214.1097869873047,
+                        "y": 176.13027954101562,
+                        "width": 344.7701110839844,
+                        "height": 328.5932922363281,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "result": [
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 142.0315399169922,
+                        "y": 285.582275390625,
+                        "width": 279.3977966308594,
+                        "height": 345.9388122558594,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "result": [
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 0.0,
+                        "y": 66.42945861816406,
+                        "width": 84.17711639404297,
+                        "height": 213.66329956054688,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "result": [
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 301.32464599609375,
+                        "y": 269.90411376953125,
+                        "width": 348.0,
+                        "height": 343.2091369628906,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "image": "imagesResult/image28.jpg"
+    }
+}

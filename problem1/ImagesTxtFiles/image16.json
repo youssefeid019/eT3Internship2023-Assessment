@@ -1,0 +1,126 @@
+{
+    "annotations": [
+        {
+            "result": [
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 0.0,
+                        "y": 129.31080627441406,
+                        "width": 149.72767639160156,
+                        "height": 340.4795227050781,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "result": [
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 26.001249313354492,
+                        "y": 62.03828430175781,
+                        "width": 113.0746841430664,
+                        "height": 151.4576416015625,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "result": [
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 48.46128463745117,
+                        "y": 24.410293579101562,
+                        "width": 343.1767272949219,
+                        "height": 290.94891357421875,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "result": [
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 210.56845092773438,
+                        "y": 0.0,
+                        "width": 336.0133361816406,
+                        "height": 95.88308715820312,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "result": [
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 3.2352263927459717,
+                        "y": 48.479637145996094,
+                        "width": 29.62581443786621,
+                        "height": 100.73474884033203,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "result": [
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 155.15106201171875,
+                        "y": 263.0118408203125,
+                        "width": 213.4302520751953,
+                        "height": 345.7532043457031,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "result": [
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 146.73251342773438,
+                        "y": 0.0,
+                        "width": 225.78802490234375,
+                        "height": 87.19747924804688,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "image": "imagesResult/image16.jpg"
+    }
+}

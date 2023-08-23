@@ -1,0 +1,194 @@
+{
+    "annotations": [
+        {
+            "result": [
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 2.03989315032959,
+                        "y": 143.71246337890625,
+                        "width": 209.05850219726562,
+                        "height": 342.3959655761719,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "result": [
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 218.8380584716797,
+                        "y": 132.87225341796875,
+                        "width": 343.19525146484375,
+                        "height": 289.323974609375,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "result": [
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 158.83798217773438,
+                        "y": 59.380836486816406,
+                        "width": 220.7877655029297,
+                        "height": 112.85366821289062,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "result": [
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 4.285090923309326,
+                        "y": 1.425119400024414,
+                        "width": 154.5985565185547,
+                        "height": 67.85957336425781,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "result": [
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 1.890520453453064,
+                        "y": 35.82666015625,
+                        "width": 104.57565307617188,
+                        "height": 179.96994018554688,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "result": [
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 127.55935668945312,
+                        "y": 2.445218801498413,
+                        "width": 347.45819091796875,
+                        "height": 138.12686157226562,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "result": [
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 166.2534942626953,
+                        "y": 0.0,
+                        "width": 245.70298767089844,
+                        "height": 19.133081436157227,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "result": [
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 332.96881103515625,
+                        "y": 167.710693359375,
+                        "width": 348.0,
+                        "height": 200.9901580810547,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "result": [
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 202.24966430664062,
+                        "y": 250.70587158203125,
+                        "width": 342.1658630371094,
+                        "height": 344.6993713378906,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "result": [
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 314.7169189453125,
+                        "y": 49.580467224121094,
+                        "width": 347.3392639160156,
+                        "height": 77.57682800292969,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "result": [
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 0.0,
+                        "y": 178.32200622558594,
+                        "width": 40.58844757080078,
+                        "height": 251.41070556640625,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "image": "imagesResult/image26.jpg"
+    }
+}

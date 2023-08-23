@@ -1,0 +1,75 @@
+{
+    "annotations": [
+        {
+            "result": [
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 17.276020050048828,
+                        "y": 40.01654815673828,
+                        "width": 327.09820556640625,
+                        "height": 323.45208740234375,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "result": [
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 0.11267924308776855,
+                        "y": 19.690441131591797,
+                        "width": 36.99648666381836,
+                        "height": 271.03662109375,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "result": [
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 265.1322937011719,
+                        "y": 85.61528015136719,
+                        "width": 348.0,
+                        "height": 306.2682189941406,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "result": [
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 107.91252899169922,
+                        "y": 56.400360107421875,
+                        "width": 194.736572265625,
+                        "height": 109.80680084228516,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "image": "imagesResult/image10.jpg"
+    }
+}
