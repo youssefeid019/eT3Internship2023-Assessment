@@ -46,4 +46,4 @@ Before using this project, ensure that you have the following Python libraries i
 You can install these libraries using pip:
 
 ```bash
-pip install torch torchvision pandas numpy [any other necessary libraries]
+pip install -r requirements.txt
